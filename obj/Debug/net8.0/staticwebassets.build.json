@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "67m41yg7TSO1LtJS/qlmuOj2yVIdUZy5m7vXFewJCsc=",
+  "Source": "ExecutionPca.Api",
+  "BasePath": "_content/ExecutionPca.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

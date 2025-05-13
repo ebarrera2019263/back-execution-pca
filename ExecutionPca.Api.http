@@ -1,0 +1,6 @@
+@ExecutionPca.Api_HostAddress = http://localhost:5286
+
+GET {{ExecutionPca.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
