@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\DepartamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\DepartamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\DepartamentosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DepartamentosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\DepartamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\DepartamentoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IDepartamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IDepartamentoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\DepartamentoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\DepartamentoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\EmpleadoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\EmpleadoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\LoginResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\EmpleadoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\EmpleadoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\EmpleadoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\EmpleadoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\EmpleadosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\EmpleadosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\PuestosController.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PuestosController.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IEmpleadoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IEmpleadoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IPuestoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IPuestoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\LoginRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\PuestoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\PuestoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\IPuestoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IPuestoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\PuestoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\PuestoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\PuestoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dtos\\PuestoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\ExecutionPca.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExecutionPca.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Security\\CifradoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Security\\CifradoHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\DepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\DepartamentoRepository.cs",
+              "RelativeToolTip": "Repositories\\DepartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:30:52.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:28:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:24:50.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Puesto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Puesto.cs",
+              "RelativeDocumentMoniker": "Models\\Puesto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Puesto.cs",
+              "RelativeToolTip": "Models\\Puesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:04:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:17:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:34:15.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\DepartamentoService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartamentoService.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\DepartamentoService.cs",
+              "RelativeToolTip": "Services\\DepartamentoService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:33:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IDepartamentoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDepartamentoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IDepartamentoRepository.cs",
+              "RelativeToolTip": "Repositories\\IDepartamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:29:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\DepartamentoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DepartamentoDto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\DepartamentoDto.cs",
+              "RelativeToolTip": "Dtos\\DepartamentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:19:21.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "Services\\EmpleadoService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:29.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpleadoDto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\EmpleadoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EmpleadoDto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\EmpleadoDto.cs",
+              "RelativeToolTip": "Dtos\\EmpleadoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:56:40.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "Dtos\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:55:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\EmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\EmpleadoRepository.cs",
+              "RelativeToolTip": "Repositories\\EmpleadoRepository.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:57:10.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:55:33.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:59:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PuestosController.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\PuestosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PuestosController.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\PuestosController.cs",
+              "RelativeToolTip": "Controllers\\PuestosController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:09:10.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmpleadoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IEmpleadoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmpleadoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IEmpleadoRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmpleadoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:56:55.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPuestoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IPuestoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IPuestoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IPuestoRepository.cs",
+              "RelativeToolTip": "Repositories\\IPuestoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:08:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\LoginRequestDto.cs",
+              "RelativeToolTip": "Dtos\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:13:19.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:02:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T17:28:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:13:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PuestoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\PuestoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PuestoRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\PuestoRepository.cs",
+              "RelativeToolTip": "Repositories\\PuestoRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:08:35.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:30:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPuestoService.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\IPuestoService.cs",
+              "RelativeDocumentMoniker": "Services\\IPuestoService.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\IPuestoService.cs",
+              "RelativeToolTip": "Services\\IPuestoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:52:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:13:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PuestoDto.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\PuestoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PuestoDto.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Dtos\\PuestoDto.cs",
+              "RelativeToolTip": "Dtos\\PuestoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:04:44.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:10:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PuestoService.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\PuestoService.cs",
+              "RelativeDocumentMoniker": "Services\\PuestoService.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Services\\PuestoService.cs",
+              "RelativeToolTip": "Services\\PuestoService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:13:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:44:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExecutionPca.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\ExecutionPca.Api.csproj",
+              "RelativeDocumentMoniker": "ExecutionPca.Api.csproj",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\ExecutionPca.Api.csproj",
+              "RelativeToolTip": "ExecutionPca.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T23:49:33.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CifradoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Security\\CifradoHelper.cs",
+              "RelativeDocumentMoniker": "Security\\CifradoHelper.cs",
+              "ToolTip": "C:\\Users\\CORBANOR\\OneDrive - Corporaci\u00F3n Bananera del norte\\Escritorio\\nuevo desarrollo execution PCA\\ExecutionPca.Api\\Security\\CifradoHelper.cs",
+              "RelativeToolTip": "Security\\CifradoHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:45:49.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
